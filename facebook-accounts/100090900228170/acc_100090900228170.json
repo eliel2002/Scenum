@@ -7,7 +7,7 @@
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Fernanda Oliveira",
-	"birthdate": "",
+	"birthdate": "1984 January 25",
 	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679322755,
+			"expirationDate": 1686494032.333662,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "08KvSRBYF3pzmWykF.AWVNtzX9HMijxgpt4ztaJ4SQifo.BkDzRS.1w.AAA.0.0.BkDzRS.AWWmgh_1ows"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679323091,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678717964255%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678718298476%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.03.2023 14:33 Criar Conta"
+	"lastEventDate": "13.03.2023 14:38 Criar Conta"
 }
