@@ -7,7 +7,7 @@
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Jhennyfer Rocha",
-	"birthdate": "",
+	"birthdate": "2002 January 3",
 	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
@@ -102,16 +102,16 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679500304,
+			"expirationDate": 1686671556.118432,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
+			"httpOnly": true,
+			"name": "fr",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "04TGSFTEUNGcGofNL.AWU_3OQzmjiKIH0G0t6GV0QJbQc.BkEenF.am.AAA.0.0.BkEenF.AWUoJUjMWuc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,8 +123,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678895516653%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678895820550%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679500645,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x580"
 		}
 	],
-	"lastEventDate": "15.03.2023 15:52 Criar Conta"
+	"lastEventDate": "15.03.2023 15:57 Criar Conta"
 }
